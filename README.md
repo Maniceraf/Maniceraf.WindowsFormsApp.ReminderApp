@@ -1,2 +1,1 @@
-# ReminderApp
-![image](https://github.com/Maniceraf/Maniceraf.WindowsFormsApp.ReminderApp/assets/78252870/670d7250-819d-47c5-b981-b476e7488a93)
+![image](https://github.com/Maniceraf/Maniceraf.WindowsFormsApp.ReminderApp/assets/78252870/7edea678-fa02-4a82-ac11-4c3774dcfd4d)
